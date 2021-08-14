@@ -1,0 +1,51 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.outer{
+  width: 1191px;
+  height: 50px;
+  background-color: rgb(46,81,152) ;
+}
+.logo{  
+  width: 200px;
+  height: 45px;
+  letter-spacing: 9px;
+  float: left;
+  margin-left: 12px;
+  text-align: center;
+  padding: 2px;
+  color: orange;
+  font-weight: bold;
+}
+.logo-inner{
+	width: 200px;
+	font-size: 19px; 
+	letter-spacing: 5px;
+	position: relative;
+    bottom: 3px;	
+	right: 10px; 
+	font-family: none;
+	color: white;
+	font-weight: 1;
+}
+.right{
+  float: right;
+  line-height: 65px;
+}
+ol{
+ list-style-type: none; 
+}
+.li{
+ letter-spacing: 2px;
+ display: inline;
+ padding-top: 10px;
+ font-size: 19px;
+ margin: 10px;
+ font-weight: bold;
+ color: white;
+}
+a:hover{	
+	font-size: 19px;
+	text-shadow: 2px 2px red;
+}

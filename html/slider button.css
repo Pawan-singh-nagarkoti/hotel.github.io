@@ -1,0 +1,6 @@
+.slider{
+  position: fixed;
+  right: 15px;
+  top: 92%;
+  z-index: 55;  
+}

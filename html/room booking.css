@@ -1,0 +1,76 @@
+.section-top{
+  width: 1191px;
+  margin-top: 10px;  
+}
+.outer-part{
+    font-size: 80px;
+	text-align: center;
+	text-shadow: 2px 2px rgb(158,159,138);
+	letter-spacing: 8px;
+	font-weight: lighter;
+}
+.room-second{
+   color: green;
+   text-align: justify;
+   letter-spacing: 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-top: 12px;
+   font-weight: bold;
+   font-size: 25px;   
+}
+.room-fieldset{
+	width: 89%;
+	height: 70%;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.center-span1{
+	margin-left: 86px;
+	letter-spacing: 4px;
+	color: green;
+}
+.center-span2{
+	margin-left: 88px;
+	letter-spacing: 4px;
+	color: green;
+}
+.center-span3{
+	margin-left: 94px;
+	letter-spacing: 4px;
+	color: green;
+}
+.img-width{
+	width: 90%;
+	height: 10%;
+	border-radius: 5px;
+	margin-left: 15px;
+}
+.legend-center{
+	text-shadow: 1px 1px red;
+	font-size: 40px;
+    text-align: center;
+    color: green;
+}
+.li-margin{
+	margin-left: 50px;
+}
+.li-margin-remove{
+	position: relative;
+	margin-top: 20px;
+	margin-left: 190px;
+	list-style-type: none;
+}
+.li-margin-remove-button{
+  position: absolute;
+  color: blue;
+  font-size: 25px;
+  border: 5px solid pink;
+  border-radius: 5px;
+  bottom: 5px;
+  left: 50px;
+}
+.li-margin-remove-button:hover{
+	text-shadow: none;
+	background-color: yellow;
+}

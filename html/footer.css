@@ -1,0 +1,19 @@
+.footer{
+	background-color: black;
+	width: 1191px;
+	height: 11vh;
+	color: white;
+	position: relative;
+}
+.footer-inside1{
+	margin-top: 7px;
+	margin-left: 280px;
+	position: absolute;
+	letter-spacing: 3px;
+}
+.footer-inside2{
+	margin-top: 33px;
+	margin-left: 50px;
+	position: absolute;
+	letter-spacing: 10px;
+}

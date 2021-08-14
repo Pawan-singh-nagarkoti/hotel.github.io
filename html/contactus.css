@@ -1,0 +1,177 @@
+
+.Background-image{
+	background-image: url("http://localhost/project/image/15.jpg");
+	margin-top: 50px;
+	width: 1191px;
+	height: 88vh;
+	position: relative;
+}
+.contact-us-one{
+	background-color: rgba(0,0,0,0.7);
+	margin-top: 15px;
+	margin-left: 30px;
+	text-align: center;
+	color: white;
+	width: 50%;
+	height: 80vh;
+	letter-spacing: 10px;
+	border-radius: 2px;
+	font-size: 40px;
+	text-shadow: 2px 2px red;
+	position: absolute;
+}
+
+.Full-name{
+	margin-top: 70px;
+	margin-left: 170px;
+	color: white;
+	position: absolute;
+	letter-spacing: 20px;
+    font-weight: bold;	
+	text-shadow: 2px 2px green;
+}
+.input-name{
+	margin-top: 95px;
+	margin-left: 130px;
+	position: absolute;	
+}
+.input-name1{
+    color: pink;
+    background: none;
+    border: 2px solid white;
+	border-radius: 2px;
+    font-size: 20px;
+    width: 400px;	
+}
+.input-name2{
+    color: pink;
+    background: none;
+    border: 1px solid white;
+	border-radius: 2px;
+    font-size: 15px;
+    width: 400px;	
+}
+.full-name-span{
+	margin-top: 95px;
+	margin-left: 130px;
+	position: absolute;
+	color: red;
+}
+
+.phone-number{
+	margin-top: 120px;
+	margin-left: 150px;
+	color: white;
+	position: absolute;
+	letter-spacing: 20px;
+	font-weight: bold;	
+	text-shadow: 2px 2px green;
+}
+.input-phone-number{
+	margin-top: 143px;
+	margin-left: 130px;
+	position: absolute;
+}
+.phone-number-span{
+	margin-top: 140px;
+	margin-left: 130px;
+	position: absolute;
+	color: red;
+}
+.email-id{
+	margin-top: 165px;
+	margin-left: 150px;
+	color: white;
+	position: absolute;
+	letter-spacing: 20px;
+	font-weight: bold;	
+	text-shadow: 2px 2px green;
+}
+.input-email-id{
+	margin-top: 190px;
+	margin-left: 130px;
+	position: absolute;
+}
+.email-id-span{
+	margin-top: 190px;
+	margin-left: 130px;
+	position: absolute;
+	color: red;
+}
+.qurry{
+	margin-top: 210px;
+	margin-left: 150px;
+	color: white;
+	position: absolute;
+	letter-spacing: 20px;
+	font-weight: bold;	
+	text-shadow: 2px 2px green;
+}
+.input-qurry{
+	margin-top: 238px;
+	margin-left: 130px;
+	position: absolute;
+}
+.qurry-span{
+	margin-top: 300px;
+	margin-left: 130px;
+	position: absolute;
+	color: red;
+}
+.submit{
+	margin-top: 320px;
+	margin-left: 220px;
+	position: absolute;
+	font-size: 20px;
+    background: none;
+    color: white;	
+}
+.submit:hover{
+	background-color: rgba(255,99,71,0.4);
+	border-radius: 5px;
+}
+.reset{
+	margin-top: 320px;
+	margin-left: 300px;
+	position: absolute;
+	font-size: 20px;
+	background: none;
+    color: white;
+}
+.reset:hover{
+	background-color: rgba(255,99,71,0.4);
+	border-radius: 5px;
+}
+.contact-with-us-two{
+	background-color: rgba(0,0,0,0.7);
+	font-weight: bold;	
+	text-shadow: 2px 2px green;
+	font-size: 30px;
+	position: absolute;
+	top: 50px;
+	margin-left: 55%;
+	letter-spacing: 8px;
+	text-align: center;
+	border-radius: 8px;
+	color: white;
+	width: 30%;
+	height: 40vh;
+}
+.website-mobileno{
+	top: 100px;
+	margin-left: 58%;
+	position: absolute;
+	color: white;
+}
+.website-gmail{
+	top: 150px;
+	margin-left: 660px;
+	position: absolute;
+	color: white;
+}
+.Address{
+	top: 200px;
+	margin-left: 660px;
+	position: absolute;
+	color: white;
+}

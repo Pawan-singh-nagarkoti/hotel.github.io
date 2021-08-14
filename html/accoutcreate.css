@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+    a{
+	   text-decoration: none;
+	 }
+     .home{
+	   float: left;
+	   width: 18%;
+	   height: 99vh;	
+	   background-color: rgb(13,57,93);
+	   border-bottom: 2px solid red;
+	   border-top: 2px solid red;
+	   position: fixed;
+	   top: 0;
+	   left: 0;
+	 }
+	 .image{
+	   width: 50px;
+	   height: 30px;
+	   margin-top: 30px;
+	   margin-left: 30px;
+	   border-radius: 3px;
+	 }
+	 
+	 
+.backimg{
+   float: right;
+   background-image: url("http://localhost/project/image/3.jpg");
+   width: 999px;
+   height: 558px; 
+   position: relative;
+}
+.useraccout{
+   position: absolute;
+   top: 50px;
+   left: 200px;
+   color: rgb(51,159,63);
+   font-weight: bold;
+   font-size: 45px; 
+   border-bottom: 2px solid black;   
+}
+.borderinner{
+   background-color: rgba(0,0,0,0.3);
+   border-radius: 5px;
+   border: 2px solid white;
+   width: 600px;
+   height: 350px;   
+   position: absolute;
+   top: 120px;
+   left: 180px;
+}
+.fomr-first{
+  margin-top: 10px;
+  color: rgb(219,159,63);	
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+.fomr-firstinner{
+  border-radius: 5px;
+  margin-left: 80px;
+  background: none;
+  width: 300px;
+  font-size: 20px;
+  border: 2px solid white;
+  color: white;
+}
+.fomr-firstinner1{
+  border-radius: 5px;
+  margin-left: 86px;
+  background: none;
+  width: 300px;
+  font-size: 20px;
+  border: 2px solid white;
+  color: white;
+}
+.fomr-firstinner2{
+  border-radius: 5px;
+  margin-left: 95px;
+  background: none;
+  width: 300px;
+  font-size: 20px;
+  border: 2px solid white;
+  color: white;
+}
+.fomr-firstinner3{
+  border-radius: 5px;
+  margin-left: 105px;
+  background: none;
+  width: 300px;
+  font-size: 20px;
+  border: 2px solid white;
+  color: white;
+}
+.formspan1{
+  letter-spacing: 5px;
+  font-size: 18px;
+  color: red;  
+  margin-left: 52px;
+}
+.sub{
+  font-size: 20px;
+  margin-left: 200px;
+  background: none;
+  color: white;
+}
+.sub:hover{
+	border-radius: 5px;
+    background-color: rgba(255,99,71,0.4);
+}
+.sub1{
+  font-size: 20px;
+  margin-left: 10px; 
+  background: none;
+  color: white;
+}
+.sub1:hover{
+   border-radius: 5px;
+   background-color: rgba(255,99,71,0.4);
+}
